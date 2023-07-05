@@ -4,7 +4,7 @@ Get daily weather forecast: minimum and maximum temp, pressure, wind and humidit
 
 Privacy Policy for Weather Forecast Android Project
 
-Effective Date: [Insert Date]
+Effective Date: 06 July 2023 
 
 Our privacy policy outlines the types of information collected, how it is used, and the measures taken to protect your privacy when using our Weather Forecast Android Project. By using the app, you agree to the collection and use of your information as described in this policy.
 
